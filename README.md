@@ -1,2 +1,2 @@
 # ufabc-projects
-aulas oficiais ou cursos, testando estudos
+aulas oficiais, simpósios, cursos ou estudos variados, em espeial de python
